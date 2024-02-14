@@ -78,7 +78,23 @@ label the data
 
 **Visualizing Our Data**
 
+- jupyter notebook demo
+
+**Looking into the KNN gears turning**
+Here we use a decision boundary of the reduced dimensioned data of the KNN matrix:
+
+shows us the boundary that separtes the different classes in the feature space.
+paints a different picture of how the KNN model is functioning
+incorporates or derived from the logistic function which predicts the relatinoship between input features and the probabililty of the positive class using a linear function
+while keeping in mind..
+
+KNN relies on the idea that similar data points are related and should be in the same class
+similar to our EDA with cosine similarity visual, we can have a better understanding of how the KNN model relates between elements and classifies them
+we would need to provide evidence, but the outliers could be an essential piece when the KNN model differentiates between emails.
+
+
 ![KNN_Decision_Boundary](https://github.com/vincehsanchez/bestspamfilter/assets/141890646/2ed88660-35c5-4a15-a210-550f51f7027d)
+
 
 ## Analysis
 
