@@ -13,7 +13,10 @@ We aim to make phishing detection more accesible and understandble to more vulne
 ## Data Collection
 
 Getting the email dataset was simple and we downloaded a corpous from the SpamAssassin an open source spam filter that has also have a public corpus for anyone to use as reference that inlcudes folders that are designated as spam or not and are filled with emails of their respective folder type (spam or ham).
-Next we needed to read the files and it was not as easy as we thought it was going to be becuase even though it was readable in a text file it was in a MIME format in which Zeb was super helpful in providing some starter code to get us going. From there we had some hurdles of reading some files because they needed to be decoded and if there were any emails that we could not decode it would skip over them and keep us moving.
+
+Next we needed to read the files and it was not as easy as we thought it was going to be becuase even though it was readable in a text file it was in a MIME format in which Zeb was super helpful in providing some starter code to get us going. 
+
+From there we had some hurdles of reading some files because they needed to be decoded and if there were any emails that we could not decode it would skip over them and keep us moving.
 
 next we needed to clean up the data like labeling them and making it radable for later.
 
