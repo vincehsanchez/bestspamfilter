@@ -27,7 +27,13 @@ label the data
 - shuffled and split up between 75% and 25% (25% IS RESERVED FOR AFTER TRAINING)
 
 **what do we see with our data right now?**
-- top 20 words
+- We asked ourselves what is "spammy"?
+
+
+![Top_20_Spam_Words](https://github.com/vincehsanchez/bestspamfilter/assets/141890646/6f579cc0-ff3b-4f62-8580-c726555d642d)
+
+
+![Top_20_Ham_Words](https://github.com/vincehsanchez/bestspamfilter/assets/141890646/4e85f14a-270a-43ef-9027-17ae5825b90f)
 
 
 **vectorized**
@@ -47,6 +53,8 @@ label the data
 **Evaluating Our Model**
 
 **Visualizing Our Data**
+
+![KNN_Decision_Boundary](https://github.com/vincehsanchez/bestspamfilter/assets/141890646/2ed88660-35c5-4a15-a210-550f51f7027d)
 
 ## Analysis
 
