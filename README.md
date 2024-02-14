@@ -26,11 +26,15 @@ label the data
 - attempted bag of words, but Porter Stemming yielded more interesting results, we like interesting
 - shuffled and split up between 75% and 25% (25% IS RESERVED FOR AFTER TRAINING)
 
-**what do we see with our data right now?**
-- We asked ourselves what is "spammy"?
+### What can we see now?
+
+**We asked ourselves what is "spammy"?**
 
 
 ![Top_20_Spam_Words](https://github.com/vincehsanchez/bestspamfilter/assets/141890646/6f579cc0-ff3b-4f62-8580-c726555d642d)
+
+
+**What is not spammy?**
 
 
 ![Top_20_Ham_Words](https://github.com/vincehsanchez/bestspamfilter/assets/141890646/4e85f14a-270a-43ef-9027-17ae5825b90f)
