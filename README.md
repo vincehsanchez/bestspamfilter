@@ -66,7 +66,15 @@ label the data
 
 **Training Our Model**
 
+
+![Screenshot 2024-02-14 at 6 48 34 PM](https://github.com/vincehsanchez/bestspamfilter/assets/141890646/9ae26430-4407-4e1c-961b-6c7b4ddb2b3c)
+
+
 **Evaluating Our Model**
+
+
+![Screenshot 2024-02-14 at 6 49 11 PM](https://github.com/vincehsanchez/bestspamfilter/assets/141890646/9a989c2a-a273-4a60-83dd-70d621299af7)
+
 
 **Visualizing Our Data**
 
