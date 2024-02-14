@@ -8,7 +8,7 @@ By using our knowledge and techinques in machine learning we attempt to:
 2. enhance our collective ability to recognize phishing content and provide a
    more thorough defense as phishing attacks become increasingly sophisticated.
 
-We aim to make phishing detection a more accessible and undeerstandble  to more vulnerable groups like the elderly and children.
+We aim to make phishing detection more accesible and understandble to more vulnerable groups like the elderly and children.
 
 ## Analysis
 
