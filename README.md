@@ -99,7 +99,7 @@ we would need to provide evidence, but the outliers could be an essential piece 
 
 ## Analysis
 
-The purpose of the analysis is to explore our data and identify what makes an efficient spam detector. Our goal is to achieve at least an 80% accuracy rate in filtering spam and indentifying spam trends to help improve educatinal efforts on spam recognition.
+The purpose of the analysis is to explore our data and identify what makes an efficient spam detector. Our goal is to achieve at least an 80% accuracy rate in filtering spam and indentifying spam trends to help improve educatinal efforts on spam recognition. We were able to exceed that goal, but there is still room for improvment. Possibly trying different preprocessing techniques or having the capacity to show multidimensional datasets that can offer more insight into how the data is grabbed.
 
 ## Summary
 
