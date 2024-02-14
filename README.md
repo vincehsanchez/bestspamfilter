@@ -81,6 +81,7 @@ label the data
 - jupyter notebook demo
 
 **Looking into the KNN gears turning**
+
 Here we use a decision boundary of the reduced dimensioned data of the KNN matrix:
 
 shows us the boundary that separtes the different classes in the feature space.
