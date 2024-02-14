@@ -40,7 +40,7 @@ label the data
 
 
 **Vectorization**
-- shuffled and split up between 75% and 25% (25% IS RESERVED FOR AFTER TRAINING)
+- shuffled and split up between 75% and 25% (25% is reserved for after training)
 
   
 ![Screenshot 2024-02-14 at 6 41 50 PM](https://github.com/vincehsanchez/bestspamfilter/assets/141890646/ce700464-1f00-41aa-a556-651c5054b7cd)
