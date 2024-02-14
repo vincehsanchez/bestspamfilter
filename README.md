@@ -10,6 +10,11 @@ By using our knowledge and techinques in machine learning we attempt to:
 
 We aim to make phishing detection more accesible and understandble to more vulnerable groups like the elderly and children.
 
+# Data Collection
+
+Getting the email dataset was simple and we downloaded a corpous from the SpamAssassin an open source spam filter that has also have a public corpus for anyone to use as reference that inlcudes folders that are designated as spam or not and are filled with emails of their respective folder type (spam or ham).
+Next we needed to read the files and it was not as easy as we thought it was going to be becuase even though it was readable in a text file it was in a MIME format in which Zeb was super helpful in providing some starter code to get us going. From there we had some hurdles of reading some files because they needed to be 
+
 ## Analysis
 
 The purpose of the analysis is to explore our data and identify what makes an efficient spam detector. Our goal is to achieve at least an 80% accuracy rate in filtering spam and indentifying spam trends to help improve educatinal efforts on spam recognition.
