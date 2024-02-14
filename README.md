@@ -6,7 +6,7 @@ This project aims to develop a machine learning-based spam filter capable of out
 By using our knowledge and techinques in machine learning we attempt to:
 1. identify emerging patterns and trends in spam and phishing tactics
 2. enhance our collective ability to recognize phishing content and provide a
-   more thorough defense against more spohisticated phishing threats
+   more thorough defense as phishing attacks become increasingly sophisticated.
 
 We aim to make phishing detection a more accessible and undeerstandble  to more vulnerable groups like the elderly and children.
 
