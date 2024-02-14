@@ -32,6 +32,10 @@ label the data
 
 ## Exploring Our Data 
 
+**Visualizing Our Data**
+-dimensions make it difficult since values are not paired or tuples
+- need to reduce, but in orde to do so we need to make dense and make data whole-ish?
+- reduced to emails and their proximity to one aonther based on cosine similarity
 
 ## KNN Model
 
