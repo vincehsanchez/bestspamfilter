@@ -12,8 +12,7 @@ We aim to make phishing detection more accesible and understandble to more vulne
 
 ## Analysis
 
-The purpose of the analysis is to explore our data and identify what makes an efficient spam detector. Our goal is to acheivve at least an 80% 
-accuracy rate in filtering spam and indentifying spam trends to help improve educatinal efforts on spam recognition.
+The purpose of the analysis is to explore our data and identify what makes an efficient spam detector. Our goal is to achieve at least an 80% accuracy rate in filtering spam and indentifying spam trends to help improve educatinal efforts on spam recognition.
 
 ## Summary
 
