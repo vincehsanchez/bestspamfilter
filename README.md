@@ -24,7 +24,6 @@ label the data
 
 ## Preprocessing Data
 - attempted bag of words, but Porter Stemming yielded more interesting results, we like interesting
-- shuffled and split up between 75% and 25% (25% IS RESERVED FOR AFTER TRAINING)
 
 ### What can we see now?
 
@@ -40,10 +39,23 @@ label the data
 ![Top_20_Ham_Words](https://github.com/vincehsanchez/bestspamfilter/assets/141890646/4e85f14a-270a-43ef-9027-17ae5825b90f)
 
 
-**vectorized**
+**Vectorization**
+- shuffled and split up between 75% and 25% (25% IS RESERVED FOR AFTER TRAINING)
+
+  
+![Screenshot 2024-02-14 at 6 41 50 PM](https://github.com/vincehsanchez/bestspamfilter/assets/141890646/ce700464-1f00-41aa-a556-651c5054b7cd)
+
+
+- need to make our values readable for the model to do what we ask of it
+
+
+![Screenshot 2024-02-14 at 6 42 34 PM](https://github.com/vincehsanchez/bestspamfilter/assets/141890646/2a4387ed-3910-407a-8848-b907910bc377)
+
+
 - need to make our values to readable for the model to do what we ask of it
 
-## Exploring Our Data 
+## Exploring Our Data
+
 
 **Visualizing Our Data**
 -dimensions make it difficult since values are not paired or tuples
