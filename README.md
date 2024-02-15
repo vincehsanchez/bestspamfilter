@@ -16,6 +16,11 @@ Getting the email dataset was simple and we downloaded a corpous from the SpamAs
 
 They offer a public corpus of selected mail messages, suitable for use in testing spam filtering systems.
 
+
+![Screenshot 2024-02-14 at 7 15 30 PM](https://github.com/vincehsanchez/bestspamfilter/assets/141890646/6d1ecc25-b6e1-4c75-8bfe-397b2b306c2a)
+
+
+
 **Hurdles**
 
 
