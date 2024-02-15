@@ -110,13 +110,12 @@ We can reduce the number of dimensions to get a better picture that can shows us
 2. their viscinity to one another gives us perspective of email similarity
          - the closer they are, the more similar they are
 
-- need to reduce, but in orde to do so we need to make dense and make data whole-ish?
+- need to reduce, but in order to do so we need to make it dense first and make data "whole" to plot it.
+- reduced to emails and their proximity to one another based on cosine similarity
+
+![PCA_of_Email_Vectors](https://github.com/vincehsanchez/bestspamfilter/assets/141890646/e9e11a06-e10e-4b28-a8c8-614ab33093d8)
 
 
-
-
-
-- reduced to emails and their proximity to one aonther based on cosine similarity
 
 ## KNN Model
 
