@@ -37,7 +37,21 @@ next we needed to clean up the data like labeling them and making it radable for
 label the data
 
 ## Preprocessing Data
-- attempted bag of words, but Porter Stemming yielded more interesting results, we like interesting
+- attempted bag of words, but Porter Stemmer yielded more interesting results, we like interesting
+
+Dataset preprocessed with Bag of Words
+
+
+![Screenshot 2024-02-14 at 7 17 33 PM](https://github.com/vincehsanchez/bestspamfilter/assets/141890646/3235708c-fcbe-4617-9396-400c76c2ef50)
+
+
+
+Dataset Preprocessed with Porter Stemmer
+
+
+![Screenshot 2024-02-14 at 7 16 55 PM](https://github.com/vincehsanchez/bestspamfilter/assets/141890646/a11493ee-2a3e-4517-9793-fb71bb1bc249)
+
+
 
 ### What can we see now?
 
