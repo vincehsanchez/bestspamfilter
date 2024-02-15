@@ -35,8 +35,8 @@ next we needed to clean up the data like labeling them and making it radable for
 
 - labeling the data as spam or ham
 
-  - spam for, well spam
-  - ham for regular emails
+  - "spam" for, well spam
+  - "ham" for regular emails
 
 ## Preprocessing Data
 - needed to tokenize the data, basically find trends or combination os letters, words, phrases, etc. that have some meaning and helpful with tagging or indentifying patterns.
