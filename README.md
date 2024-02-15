@@ -17,6 +17,8 @@ Getting the email dataset was simple and we downloaded a corpous from the SpamAs
 They offer a public corpus of selected mail messages, suitable for use in testing spam filtering systems.
 
 **Hurdles**
+
+
 Next we needed to read the files and it was not as easy as we thought, this was due to the format of the files becasue even though it was readable in a text file it was in a MIME format in which Zeb was super helpful in providing some starter code to get us going. 
 
 
