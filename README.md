@@ -39,7 +39,7 @@ next we needed to clean up the data like labeling them and making it radable for
   - "ham" for regular emails
 
 ## Preprocessing Data
-- needed to tokenize the data, basically find trends or combination os letters, words, phrases, etc. that have some meaning and helpful with tagging or indentifying patterns.
+- needed to tokenize the data, basically find trends or combination of letters, words, phrases, etc. that have some meaning and helpful with tagging or indentifying patterns.
   
 - attempted bag of words, but Porter Stemmer yielded more interesting results, we like interesting ;)
 
