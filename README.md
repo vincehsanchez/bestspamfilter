@@ -12,7 +12,7 @@ We aim to make phishing detection more accesible and understandble to more vulne
 
 ## Data Collection
 
-Getting the email dataset was simple and we downloaded a corpous from the SpamAssassin an open source project that serves as a mail filter to identify Spam.
+Getting the email dataset was simple and we downloaded a corpous from SpamAssassin an open source project that serves as a mail filter to identify Spam.
 
 They offer a public corpus of selected mail messages, suitable for use in testing spam filtering systems.
 
