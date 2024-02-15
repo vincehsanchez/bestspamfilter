@@ -27,7 +27,7 @@ Next we needed to read the files and it was not as easy as we thought, this was 
 
 
 
-From there we had some hurdles of reading some files because they needed to be decoded and if there were any emails that we could not decode it would skip over them and keep us moving.
+From there we had a seemingly endless hurdle of reading some files because they needed to be decoded and if there were any emails that we could not decode it would skip over them and keep us moving.
 
 ![Screenshot 2024-02-14 at 7 13 45 PM](https://github.com/vincehsanchez/bestspamfilter/assets/141890646/715e955c-de5a-4cd4-bb19-8e18359916f6)
 
