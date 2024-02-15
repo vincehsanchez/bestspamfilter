@@ -97,7 +97,25 @@ Once we picked which nlp
 
 ![cosine_similarity_heatmap](https://github.com/vincehsanchez/bestspamfilter/assets/141890646/ea0289af-f220-4091-9f32-db98c5dc1cdc)
 
+
+**Was the heatmap useful?**
+
+No, becuase of how many different emails there are it adds too many dimensions for us to clearly see anything of use here and how our machine learning model will be able to classify anything.
+
+
+**So what do we do from here?**
+
+We can reduce the number of dimensions to get a better picture that can shows us two things:
+1. each point is an email
+2. their viscinity to one another gives us perspective of email similarity
+         - the closer they are, the more similar they are
+
 - need to reduce, but in orde to do so we need to make dense and make data whole-ish?
+
+
+
+
+
 - reduced to emails and their proximity to one aonther based on cosine similarity
 
 ## KNN Model
