@@ -207,6 +207,7 @@ to only scratch the surface of how KNN was able to classify from our dataset and
 which was a valuble tool in identifying what emails are spammy or not.
 
 **Were we able to learn anything from this?**
+
 Sort of, even though our machine learning model falls under classification, we came to realize that Natural language Processing adds dimensions (a lot) which requires more exploratory analysis because its a little difficult to justify how the data is classified and what/how is conceptualized as the starting point. We tried using cosine similarity to help see (possibly) where that starting point is at least.
 
 
