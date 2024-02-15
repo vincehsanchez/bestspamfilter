@@ -23,7 +23,7 @@ They offer a public corpus of selected mail messages, suitable for use in testin
 **Hurdles**
 
 
-Next we needed to read the files and it was not as easy as we thought, this was due to the format of the files becasue even though it was readable in a textedit....the file was in a MIME format in which Zeb was super helpful in providing some starter code to get us going. 
+Next we needed to read the files and it was not as easy as we thought, this was due to the format of the files because even though it was readable in a textedit....the file was in a MIME format in which Zeb was super helpful in providing some starter code to get us going. 
 
 
 
