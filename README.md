@@ -20,7 +20,6 @@ They offer a public corpus of selected mail messages, suitable for use in testin
 ![Screenshot 2024-02-14 at 7 15 30 PM](https://github.com/vincehsanchez/bestspamfilter/assets/141890646/6d1ecc25-b6e1-4c75-8bfe-397b2b306c2a)
 
 
-
 **Hurdles**
 
 
@@ -34,10 +33,14 @@ From there we had some hurdles of reading some files because they needed to be d
 
 next we needed to clean up the data like labeling them and making it radable for later.
 
-label the data
+- labeling the data as spam or ham
+        - spam for, well spam
+        - ham for regular emails
 
 ## Preprocessing Data
-- attempted bag of words, but Porter Stemmer yielded more interesting results, we like interesting
+- needed to tokenize the data, basically find trends or combination os letters, words, phrases, etc. that have some meaning and helpful with tagging or indentifying patterns.
+  
+- attempted bag of words, but Porter Stemmer yielded more interesting results, we like interesting ;)
 
 Dataset preprocessed with Bag of Words
 
@@ -54,7 +57,7 @@ Dataset Preprocessed with Porter Stemmer
 
 
 ### What can we see now?
-
+Once we picked which nlp 
 **We asked ourselves what is "spammy"?**
 
 
