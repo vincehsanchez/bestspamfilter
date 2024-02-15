@@ -130,6 +130,42 @@ We can reduce the number of dimensions to get a better picture that can shows us
 ![Screenshot 2024-02-14 at 6 48 34 PM](https://github.com/vincehsanchez/bestspamfilter/assets/141890646/9ae26430-4407-4e1c-961b-6c7b4ddb2b3c)
 
 
+*So what?
+
+- Its doing pretty good!
+  
+1. Precision:
+- For ham (0), the precision is 0.97, meaning that when the model predicts an email as ham, it is correct 97% of the time.
+- For spam (1), the precision is 1.00, indicating that every email predicted as spam was actually spam.
+- So no ham emails mistakenly classified as spam. YAY!
+
+2. Recall:
+- For ham (0), the recall is 1.00, this is what we want, no ham emails are misclassified as spam.
+- For spam (1), the recall is 0.94, only 6% of spam emails were missed by the model and possibly classified as ham.
+
+3. F1-Score:
+- The F1-score for ham (0) is 0.98, optimal performance between precision and recall in identifying ham emails.
+- The F1-score for spam (1) is 0.97, although lower, high performance between precision and recall (keeping in mind spam recall of 0.94).
+
+5. Support:
+- The support for ham (0) is 730, actual number of ham emails in the test dataset.
+- The support for spam (1) is 358, actual number of spam emails in the test dataset.
+
+6. Accuracy:
+- The overall accuracy of the model is 0.98, meaning that 98% of the emails were correctly classified and its effective!
+
+7. Macro Avg:
+- The macro average for precision, recall, and F1-score are all 0.98, pretty impressive performance that it was able to perform in a balanced manner even though the data was not balanced.
+
+8. Weighted Avg:
+- The weighted average for precision, recall, and F1-score is also 0.98, even with how many ham and spam emails there were, it still performs well
+
+
+**Takaways:**
+
+This classification report shows that the KNN model is effective for this spam detection task, with very few errors in classification. There could be room for some improvement in spam recall to catch more spam emails without sacrificing the precision.
+
+
 **Evaluating Our Model**
 
 
