@@ -175,7 +175,7 @@ We can reduce the number of dimensions to get a better picture that can shows us
 
 
 
-**Visualizing Our Data**
+### Visualizing Our Model
 
 - jupyter notebook demo
 
