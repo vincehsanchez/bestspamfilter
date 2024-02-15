@@ -88,8 +88,15 @@ Once we picked which nlp
 ## Exploring Our Data
 
 
-**Visualizing Our Data**
--dimensions make it difficult since values are not paired or tuples
+### Visualizing Our Data**
+- dimensions make it difficult since values are not paired or tuples
+- looked to incorporating the use of cosine similarity that produces a value of measure that is between two elements ans useful with NLP analysis.
+
+**We first tried using a heatmap with the cosine similarity matrix that we produced**
+
+
+![cosine_similarity_heatmap](https://github.com/vincehsanchez/bestspamfilter/assets/141890646/ea0289af-f220-4091-9f32-db98c5dc1cdc)
+
 - need to reduce, but in orde to do so we need to make dense and make data whole-ish?
 - reduced to emails and their proximity to one aonther based on cosine similarity
 
