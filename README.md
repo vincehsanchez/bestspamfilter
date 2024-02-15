@@ -88,7 +88,7 @@ Once we picked which nlp
 ## Exploring Our Data
 
 
-### Visualizing Our Data**
+### Visualizing Our Data
 - dimensions make it difficult since values are not paired or tuples
 - looked to incorporating the use of cosine similarity that produces a value of measure that is between two elements ans useful with NLP analysis.
 
