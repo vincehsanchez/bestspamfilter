@@ -58,7 +58,9 @@ Dataset Preprocessed with Porter Stemmer
 
 
 ### What can we see now?
-Once we picked which nlp 
+
+Once we picked which tokenizer
+
 **We asked ourselves what is "spammy"?**
 
 
