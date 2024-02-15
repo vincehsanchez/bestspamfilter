@@ -116,10 +116,27 @@ We can reduce the number of dimensions to get a better picture that can shows us
 ![PCA_of_Email_Vectors](https://github.com/vincehsanchez/bestspamfilter/assets/141890646/e9e11a06-e10e-4b28-a8c8-614ab33093d8)
 
 
+**What do we see?**
+- we can see our extreme outliers, 209, maybe we can see whether why some spam or ham are more likely to be outliers.
+
+
 **This helped us ask:**
 - Why is it shaped like that?
 - What are these clusters/dense areas?
 - What do these points mean?
+
+**Can we explain the outliers?**
+
+- We tried getting top 20 words and see if anything is different between what is definitely spam or ham versus what is just making the cut:
+
+
+![Top_20_Ham_Words_from_Email_Outliers](https://github.com/vincehsanchez/bestspamfilter/assets/141890646/393fd5a4-7d2d-48aa-8bc6-09b1358bb523)
+
+
+![Top_20_Spam_Words_from_Email_Outliers](https://github.com/vincehsanchez/bestspamfilter/assets/141890646/ad9ede6f-cf8f-4e98-a266-b93bd13bcc44)
+
+
+- ... yeah nothing to intersting here, but maybe if we increased dimensions we could get a picture.
 
 
 ## KNN Model
