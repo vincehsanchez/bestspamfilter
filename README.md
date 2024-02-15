@@ -116,6 +116,11 @@ We can reduce the number of dimensions to get a better picture that can shows us
 ![PCA_of_Email_Vectors](https://github.com/vincehsanchez/bestspamfilter/assets/141890646/e9e11a06-e10e-4b28-a8c8-614ab33093d8)
 
 
+**This helped us ask:**
+- Why is it shaped like that?
+- What are these clusters/dense areas?
+- What do these points mean?
+
 
 ## KNN Model
 
@@ -139,7 +144,7 @@ We can reduce the number of dimensions to get a better picture that can shows us
 
 Here we use a decision boundary of the reduced dimensioned data of the KNN matrix:
 
-shows us the boundary that separtes the different classes in the feature space.
+shows us the boundary that separates the different classes in the feature space.
 paints a different picture of how the KNN model is functioning
 incorporates or derived from the logistic function which predicts the relatinoship between input features and the probabililty of the positive class using a linear function
 while keeping in mind..
