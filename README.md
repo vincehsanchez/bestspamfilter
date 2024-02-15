@@ -105,7 +105,10 @@ The purpose of the analysis is to explore our data and identify what makes an ef
 
 The KNN model shows to be the best machine learning model to achieve a accuracy rate above 80%. From our exploratory data analysis we were able 
 to only scratch the surface of how KNN was able to classify from our dataset and interestingly give us insight into the extreme outliers of the datset 
-which was a valuble tool in identifying what emails were not 
+which was a valuble tool in identifying what emails are spammy or not.
+
+**Were we able to learn anything from this?**
+Sort of, even though our machine learning model falls under classification, we came to realize that Natural language Processing adds dimensions (a lot) which requires more exploratory analysis because its a little difficult to justify how the data is classified and what/how is conceptualized as the starting point. We tried using cosine similarity to help see (possibly) where that starting point is at least.
 
 
 ## Considerations
